@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ilvrak
-- 👀 I’m interested in Python, Datascience, Machinelearning
-- 🌱 I’m currently learning Statistics
+- 👀 I’m interested in learning different programming languages and comparing them
+- 🌱 I’m currently learning Backend Development on Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
